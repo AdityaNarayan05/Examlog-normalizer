@@ -1,0 +1,1 @@
+python .\log_normalizer_encrypted.py '.\GROUP-4 2024.zip' .\group_log.csv --password "Gr0up$#2024"

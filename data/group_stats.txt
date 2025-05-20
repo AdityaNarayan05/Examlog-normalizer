@@ -1,0 +1,338 @@
+=== SUMMARY STATS ===
+Total log entries: 137269
+Unique centers: 35
+Unique domains (MSG1): 4022
+Unique business types (MSG2): 63
+Unique source IPs: 80605
+Unique destination IPs: 7009
+
+=== Top 10 Domains ===
+45.114.77.240: 15882
+download.windowsupdate.com: 15766
+www.google.com: 3504
+ctldl.windowsupdate.com: 3498
+google.com: 3155
+3.tlu.dl.delivery.mp.microsoft.com: 2905
+edgedl.me.gvt1.com: 2430
+msedge.b.tlu.dl.delivery.mp.microsoft.com: 2425
+2.tlu.dl.delivery.mp.microsoft.com: 2305
+ultraviewer: 2249
+
+=== MSG2 Type Counts ===
+Business: 35441
+Software/Hardware: 24799
+unrated: 19696
+Internet Services: 18912
+Search Engines: 9331
+Content Server: 8460
+Web Ads: 4629
+Portal Sites: 3292
+Instant Messaging: 3115
+Interactive Web Applications: 2306
+P2P/File Sharing: 1593
+Personal Network Storage: 1064
+Private IP Addresses: 866
+Shareware/Freeware: 414
+Technical/Business Forums: 383
+Public Information: 315
+Media Sharing: 259
+Blogs/Wiki: 251
+General News: 211
+Web Mail: 187
+Online Shopping: 161
+Information Security: 155
+Remote Access: 136
+Media Downloads: 130
+Government/Military: 125
+Social Networking: 99
+Text Translators: 88
+Professional Networking: 84
+PUPs: 81
+Travel: 77
+Service is unavailable: query timeout: 67
+Games: 67
+Web Meetings: 57
+Education/Reference: 53
+Streaming Media: 48
+Technical Information: 44
+Marketing/Merchandising: 44
+Entertainment: 37
+Anonymizing Utilities: 33
+Job Search: 22
+Forum/Bulletin Boards: 22
+Finance/Banking: 20
+Sports: 19
+Personal Pages: 16
+Motor Vehicles: 10
+Chat: 8
+Real Estate: 8
+Internet Radio/TV: 7
+Parked Domain: 3
+Auctions/Classifieds: 3
+Gambling: 3
+Dating/Personals: 3
+Health: 3
+nan: 2
+Pornography: 2
+Alcohol: 1
+Recreation/Hobbies: 1
+Potential Illegal Software: 1
+Fashion/Beauty: 1
+Art/Culture/Heritage: 1
+Restaurants: 1
+Potential Hacking/Computer Crime: 1
+Religion/Ideology: 1
+
+=== Log Frequency by Hour ===
+
+=== Note + CAT Combinations ===
+WEB FORWARD + Forward Web Sites: 110993
+WEB WARNING + Warning Web Sites: 19696
+WEB BLOCK + Blocked Web Sites: 6580
+
+=== Extended Analysis: Domain Category by Center ===
+
+-- Center: ADITYA1-SATNA --
+4.240.189.69 (Content Server): 1608
+download.windowsupdate.com (Software/Hardware): 622
+4.240.189.65 (Content Server): 169
+zone94.com (Blogs/Wiki): 135
+ctldl.windowsupdate.com (Software/Hardware): 77
+
+-- Center: GIMS_SAGAR_FIREWALL --
+download.windowsupdate.com (Software/Hardware): 561
+ctldl.windowsupdate.com (Software/Hardware): 126
+f.c2r.ts.cdn.office.net (Business): 113
+msedge.b.tlu.dl.delivery.mp.microsoft.com (Business): 76
+edgedl.me.gvt1.com (Internet Services): 72
+
+-- Center: GYANSAGAR-SAGAR-FIREWALL --
+ultraviewer (unrated): 43
+ocsp.digicert.com (Software/Hardware): 33
+storage.live.com (Personal Network Storage): 32
+mobile.events.data.microsoft.com (Business): 30
+edge.microsoft.com (Business): 30
+
+-- Center: GCE-NEEMUCH-FIREWALL --
+download.windowsupdate.com (Software/Hardware): 534
+98.70.194.66 (unrated): 237
+ctldl.windowsupdate.com (Software/Hardware): 115
+edgedl.me.gvt1.com (Internet Services): 104
+2.tlu.dl.delivery.mp.microsoft.com (Business): 103
+
+-- Center: GITI_SAGAR_FIREWALL --
+download.windowsupdate.com (Software/Hardware): 559
+3.tlu.dl.delivery.mp.microsoft.com (Business): 137
+f.c2r.ts.cdn.office.net (Business): 105
+ctldl.windowsupdate.com (Software/Hardware): 102
+tpc.googlesyndication.com (Web Ads): 80
+
+-- Center: IPS-INDORE-FIREWALL --
+download.windowsupdate.com (Software/Hardware): 437
+www.google-analytics.com (Internet Services): 373
+wbm9.cbtexam.in (Content Server): 242
+ctldl.windowsupdate.com (Software/Hardware): 114
+msedge.b.tlu.dl.delivery.mp.microsoft.com (Business): 69
+
+-- Center: IESC02-BHOPAL-FIREWALL --
+www.google.com (Search Engines): 3193
+google.com (Search Engines): 3032
+edgedl.me.gvt1.com (Internet Services): 497
+dns.google (Internet Services): 204
+download.quickheal.com (Business): 169
+
+-- Center: IKDC-INDORE-Firewall --
+download.windowsupdate.com (Software/Hardware): 509
+3.tlu.dl.delivery.mp.microsoft.com (Business): 218
+c.pki.goog (Software/Hardware): 179
+2.tlu.dl.delivery.mp.microsoft.com (Business): 107
+ctldl.windowsupdate.com (Software/Hardware): 98
+
+-- Center: IESC01-BHOPAL-FIREWALL --
+45.114.77.240 (unrated): 13901
+download.windowsupdate.com (Software/Hardware): 349
+www.w3.org (Internet Services): 316
+tile-service.weather.microsoft.com (Business): 70
+msedge.b.tlu.dl.delivery.mp.microsoft.com (Business): 63
+
+-- Center: KMC-SIDHI-FIREWALL --
+i-666.b-0.ad.bench.utorrent.com (P2P/File Sharing): 966
+www9.smartadserver.com (Web Ads): 404
+3.tlu.dl.delivery.mp.microsoft.com (Business): 397
+download.windowsupdate.com (Software/Hardware): 379
+2.tlu.dl.delivery.mp.microsoft.com (Business): 313
+
+-- Center: ITI-NEEMUCH-FIREWALL --
+download.windowsupdate.com (Software/Hardware): 429
+bat.bing.com (Web Ads): 136
+ctldl.windowsupdate.com (Software/Hardware): 85
+tile-service.weather.microsoft.com (Business): 67
+f.c2r.ts.cdn.office.net (Business): 52
+
+-- Center: KCNP-BHOPAL-FIREWALL --
+download.windowsupdate.com (Software/Hardware): 522
+f.c2r.ts.cdn.office.net (Business): 457
+3.tlu.dl.delivery.mp.microsoft.com (Business): 417
+b.c2r.ts.cdn.office.net (Business): 194
+edgedl.me.gvt1.com (Internet Services): 121
+
+-- Center: LNCT-JBP-FIREWALL --
+ultraviewer (unrated): 1064
+download.windowsupdate.com (Software/Hardware): 406
+2.tlu.dl.delivery.mp.microsoft.com (Business): 324
+ctldl.windowsupdate.com (Software/Hardware): 95
+3.tlu.dl.delivery.mp.microsoft.com (Business): 72
+
+-- Center: JNCT-BHOPAL-FIREWALL --
+download.windowsupdate.com (Software/Hardware): 463
+1d.tlu.dl.delivery.mp.microsoft.com (Business): 389
+ctldl.windowsupdate.com (Software/Hardware): 93
+crl3.digicert.com (Software/Hardware): 84
+edgedl.me.gvt1.com (Internet Services): 63
+
+-- Center: MITS-BHOPAL-FIREWALL --
+45.114.77.240 (unrated): 1981
+download.windowsupdate.com (Software/Hardware): 450
+98.70.194.65 (Internet Services): 328
+3.tlu.dl.delivery.mp.microsoft.com (Business): 153
+74.224.107.148 (unrated): 115
+
+-- Center: MLCT-REWA-FIREWALL --
+download.windowsupdate.com (Software/Hardware): 829
+15.tlu.dl.delivery.mp.microsoft.com (Business): 280
+ib.adnxs.com (Web Ads): 253
+msft-ssp-apac.adnxs.com (Web Ads): 216
+2.tlu.dl.delivery.mp.microsoft.com (Business): 168
+
+-- Center: NOBLE-SAGAR-FIREWALL --
+download.windowsupdate.com (Software/Hardware): 694
+3.tlu.dl.delivery.mp.microsoft.com (Business): 274
+cdn.content.prod.cms.msn.com (Portal Sites): 168
+ctldl.windowsupdate.com (Software/Hardware): 160
+c.pki.goog (Software/Hardware): 87
+
+-- Center: PITS-UJJAIN --
+download.windowsupdate.com (Software/Hardware): 480
+98.70.194.65 (Internet Services): 361
+2.tlu.dl.delivery.mp.microsoft.com (Business): 361
+74.224.107.146 (Internet Services): 115
+ctldl.windowsupdate.com (Software/Hardware): 97
+
+-- Center: PPTC-REWA-FIREWALL --
+download.windowsupdate.com (Software/Hardware): 450
+74.224.107.128 (Internet Services): 195
+3.tlu.dl.delivery.mp.microsoft.com (Business): 161
+98.70.194.65 (Internet Services): 139
+ctldl.windowsupdate.com (Software/Hardware): 112
+
+-- Center: LNCT-BHOPAL-FIREWALL --
+3.tlu.dl.delivery.mp.microsoft.com (Business): 296
+download.windowsupdate.com (Software/Hardware): 281
+ctldl.windowsupdate.com (Software/Hardware): 99
+2.tlu.dl.delivery.mp.microsoft.com (Business): 84
+tile-service.weather.microsoft.com (Business): 62
+
+-- Center: RKDF_BPL_FIREWALL --
+ncc.avast.com (Business): 252
+2.tlu.dl.delivery.mp.microsoft.com (Business): 208
+3.tlu.dl.delivery.mp.microsoft.com (Business): 153
+c.pki.goog (Software/Hardware): 125
+emupdate.avcdn.net (Software/Hardware): 91
+
+-- Center: PIMS-KHANDWA-FIREWALL --
+en-US.appex-rf.msn.com (Portal Sites): 195
+c.pki.goog (Software/Hardware): 73
+finance.services.appex.bing.com (Search Engines): 65
+emupdate.avcdn.net (Software/Hardware): 49
+ctldl.windowsupdate.com (Software/Hardware): 48
+
+-- Center: MIT-BHOPAL-FIREWALL --
+download.windowsupdate.com (Software/Hardware): 687
+3.tlu.dl.delivery.mp.microsoft.com (Business): 261
+ctldl.windowsupdate.com (Software/Hardware): 188
+tile-service.weather.microsoft.com (Business): 131
+dns.google (Internet Services): 123
+
+-- Center: SAGE-INDORE-FIREWALL --
+download.windowsupdate.com (Software/Hardware): 482
+wbm9.cbtexam.in (Content Server): 365
+2.tlu.dl.delivery.mp.microsoft.com (Business): 263
+ctldl.windowsupdate.com (Software/Hardware): 103
+edgedl.me.gvt1.com (Internet Services): 74
+
+-- Center: SDITS-KHANDWA-FIREWALL01 --
+4.240.189.67 (Content Server): 780
+download.windowsupdate.com (Software/Hardware): 535
+4.240.189.64 (Content Server): 211
+msedge.b.tlu.dl.delivery.mp.microsoft.com (Business): 116
+ocsp.digicert.com (Software/Hardware): 69
+
+-- Center: SBS-KHANDWA-FIREWALL --
+192.168.1.108 (Private IP Addresses): 866
+download.windowsupdate.com (Software/Hardware): 595
+ctldl.windowsupdate.com (Software/Hardware): 118
+f.c2r.ts.cdn.office.net (Business): 99
+ib.adnxs.com (Web Ads): 89
+
+-- Center: SSIS-JBP-FIREWALL --
+download.windowsupdate.com (Software/Hardware): 618
+msedge.b.tlu.dl.delivery.mp.microsoft.com (Business): 424
+74.224.107.128 (Internet Services): 167
+edgedl.me.gvt1.com (Internet Services): 95
+74.224.107.133 (unrated): 72
+
+-- Center: SAGE-BHOPAL-FIREWALL --
+download.windowsupdate.com (Software/Hardware): 519
+c.pki.goog (Software/Hardware): 121
+ctldl.windowsupdate.com (Software/Hardware): 98
+3.tlu.dl.delivery.mp.microsoft.com (Business): 90
+x1.c.lencr.org (Software/Hardware): 82
+
+-- Center: SITMS-RATLAM-FIREWALL01 --
+download.windowsupdate.com (Software/Hardware): 587
+i-666.b-0.ad.bench.utorrent.com (P2P/File Sharing): 523
+3.au.download.windowsupdate.com (Software/Hardware): 234
+www9.smartadserver.com (Web Ads): 217
+au.download.windowsupdate.com (Software/Hardware): 177
+
+-- Center: VITS02-BHOPAL-FIREWALL --
+15.tlu.dl.delivery.mp.microsoft.com (Business): 1697
+download.windowsupdate.com (Software/Hardware): 458
+edgedl.me.gvt1.com (Internet Services): 162
+ctldl.windowsupdate.com (Software/Hardware): 150
+2.tlu.dl.delivery.mp.microsoft.com (Business): 116
+
+-- Center: SIRTE-BHOPAL-FIREWALL --
+ultraviewer (unrated): 437
+msedge.b.tlu.dl.delivery.mp.microsoft.com (Business): 74
+tile-service.weather.microsoft.com (Business): 72
+mobile.events.data.microsoft.com (Business): 32
+storage.live.com (Personal Network Storage): 30
+
+-- Center: YION-JBP-FIREWALL --
+ultraviewer (unrated): 665
+download.windowsupdate.com (Software/Hardware): 505
+cdn.content.prod.cms.msn.com (Portal Sites): 219
+go.microsoft.com (Business): 115
+ctldl.windowsupdate.com (Software/Hardware): 100
+
+-- Center: SCOPE-BHOPAL-FIREWALL --
+download.windowsupdate.com (Software/Hardware): 491
+1d.tlu.dl.delivery.mp.microsoft.com (Business): 349
+ctldl.windowsupdate.com (Software/Hardware): 118
+edgedl.me.gvt1.com (Internet Services): 63
+msedge.b.tlu.dl.delivery.mp.microsoft.com (Business): 56
+
+-- Center: MMC-SATNA-FIREWALL --
+download.windowsupdate.com (Software/Hardware): 795
+msedge.b.tlu.dl.delivery.mp.microsoft.com (Business): 165
+ctldl.windowsupdate.com (Software/Hardware): 126
+98.70.194.65 (Internet Services): 109
+tile-service.weather.microsoft.com (Business): 100
+
+-- Center: VITS-BHOPAL-FIREWALL --
+b.c2r.ts.cdn.office.net (Business): 483
+download.windowsupdate.com (Software/Hardware): 459
+f.c2r.ts.cdn.office.net (Business): 239
+ctldl.windowsupdate.com (Software/Hardware): 130
+c.pki.goog (Software/Hardware): 120

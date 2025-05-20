@@ -1,0 +1,8 @@
+# Ignore all zip files anywhere
+*.zip
+
+# Ignore all csv files anywhere
+*.csv
+
+.venv/
+GROUp-4 2024
