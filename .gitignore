@@ -3,6 +3,8 @@
 
 # Ignore all csv files anywhere
 *.csv
+*.json
 
 .venv/
 GROUp-4 2024
+ipdata
